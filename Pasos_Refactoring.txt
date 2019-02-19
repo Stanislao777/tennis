@@ -1,0 +1,5 @@
+1.- Anadir pruebas
+1.1.- Mover logica principal, dentro del for, a su propio metodo: Fizzbuzz_de(i)
+1.2.- Que el metodo Fizzbuzz_de(i) solo devuelva una cadena. Y el console.log solo se hace en el for
+
+2.- Tests para FizzBuzz1 (de un numero)
